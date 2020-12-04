@@ -2,7 +2,7 @@ module.exports = {
   // customDocsPath: path.basename(__dirname) + '/docs',
   title: 'Opensquare Docs',
   tagline: 'Opensquare Documentations',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.opensquare.network',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,13 +36,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/opensquare-network/docs/tree/master/website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
