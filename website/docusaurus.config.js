@@ -12,6 +12,7 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
+        href: 'https://www.opensquare.network/',
         alt: 'Opensquare Logo',
         src: 'img/logo.svg',
       },
