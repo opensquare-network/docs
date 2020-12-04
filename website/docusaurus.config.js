@@ -3,7 +3,7 @@ module.exports = {
   title: 'Opensquare Docs',
   tagline: 'Opensquare Documentations',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
