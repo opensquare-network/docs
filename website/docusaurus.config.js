@@ -6,12 +6,11 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'opensquare-network', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  organizationName: 'opensquare-network',
+  projectName: 'docs',
   themeConfig: {
     navbar: {
       logo: {
-        href: 'https://www.opensquare.network',
         alt: 'Opensquare Logo',
         src: 'img/logo.svg',
       },
@@ -34,7 +33,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/opensquare-network/docs/tree/master/website',
           routeBasePath: '/'
