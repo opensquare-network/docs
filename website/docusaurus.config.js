@@ -1,9 +1,8 @@
 module.exports = {
-  // customDocsPath: path.basename(__dirname) + '/docs',
   title: 'Opensquare Docs',
   tagline: 'Opensquare Documentations',
-  url: 'https://www.opensquare.network',
-  baseUrl: '/docs/',
+  url: 'https://docs.opensquare.network',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -12,7 +11,7 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
-        href: 'https://www.opensquare.network/',
+        href: 'https://www.opensquare.network',
         alt: 'Opensquare Logo',
         src: 'img/logo.svg',
       },
@@ -38,6 +37,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/opensquare-network/docs/tree/master/website',
+          routeBasePath: '/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
