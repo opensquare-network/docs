@@ -3,5 +3,9 @@ module.exports = {
     Introduction: [
       'welcome'
     ],
+    'Getting Started': [
+      'preparation',
+      'bounty-flow'
+    ]
   }
 };
