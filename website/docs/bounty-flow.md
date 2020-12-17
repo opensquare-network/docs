@@ -45,10 +45,16 @@ Because the Bounty we created has just been approved, so you should find it unde
 
 In the details page, you can view who has applied for the task. Currently we have only one hunter applying. Click the `Assign to Hunter` button and select this hunter and confirm the assignment.
 
-### 5. Hunter submit the result
+### 5. Hunter submitting the result
 
+Similarly, hunter can also find the related bounty tasks on his profile. Below are the two tabs prepared for the hunters.
 
-### 6. Funder mark the Bounty as Resolved and rating
+* Applying Bounties - The bounties the user is applying for
+* Ongoing Bounties - The bounties the user is working on
+
+On the `Ongoing Bounties` tab, we can found that there is a task waiting for us to complete, because current user has just been selected as the executor. Click it to enter the details page, you can view the task description again. Now it is time to use your talents and professional skills to accomplish this task brilliantly. After the work is completed, click the `Submit` button to submit the result to the funder.
+
+### 6. Marking the Bounty as resolved and rating
 
 
 ### 7. Hunter rates for the Funder
