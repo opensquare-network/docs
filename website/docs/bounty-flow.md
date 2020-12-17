@@ -38,7 +38,7 @@ When someone applies for the Bounty job, funder can start deciding who to give t
 
 Please switch to the `Funder` account and click on the account name in the upper right corner, then we enter the its profile page. We can find the current user's related bounties here. There are 5 tabs on this page, the two on the left are for funders.
 
-* Applying Bounties - Pending bounties created by current user
+* Pending Approve - Pending bounties created by current user
 * Fund Bounties -- Approved Bounties created by current user
 
 Because the Bounty we created has just been approved, so you should find it under the `Fund Bounties` tab. Then, click on it to enter its details page.
@@ -60,4 +60,15 @@ After hunter submits the results, it may be necessary to continue to communicate
 
 Switch to the `Funder` account and open the Bounty again. Click `Resolve and Remark` to mark it as resolved. At this time, the Bounty's funds will be released to the worker as reward. Futher, you can also rate the hunter's work from Bad to Perfect. The rating is very meaningful for the hunters since it affects their personal score.
 
-### 7. Hunter rates for the Funder
+### 7. Rating for the Funder
+
+At the end, the hunter can also rate for the completed bounties. Similarly, by clicking the `Funder Remark` button, and then choosing a rating from Bad to Perfect, it will affect the funder's personal score.
+
+## The End
+
+------
+
+At this point, a simple bounty process has been completed. To learn more about us, please visit [OpenSquare](https://github.com/opensquare-network).
+
+Thank you for taking the time to read this tutorial, have a nice day.
+
