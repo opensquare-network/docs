@@ -8,9 +8,7 @@ This chapter, we will guide you through a complete process of a Bounty flow. We 
 
 ## Import testing account
 
-In the OpenSquare testnet, it has a built-in councilsor account, which has enough funds and privileges to go though the whole process. Below is the account seed, please import it into your Polkadot Extension.
-
-`system title wire escape face guard wrestle sugar goose soldier basket miss`
+In the OpenSquare testnet, it has a built-in councilsor account, which has enough funds and privileges to go though the whole process. If you have the account seed, please import it into your Polkadot Extension.
 
 ## How to sign in?
 

@@ -56,5 +56,8 @@ On the `Ongoing Bounties` tab, we can found that there is a task waiting for us 
 
 ### 6. Marking the Bounty as resolved and rating
 
+After hunter submits the results, it may be necessary to continue to communicate and improve until satisfaction is reached. When funder thinks that the task has been fully completed, the task can marked as resolved.
+
+Switch to the `Funder` account and open the Bounty again. Click `Resolve and Remark` to mark it as resolved. At this time, the Bounty's funds will be released to the worker as reward. Futher, you can also rate the hunter's work from Bad to Perfect. The rating is very meaningful for the hunters since it affects their personal score.
 
 ### 7. Hunter rates for the Funder
