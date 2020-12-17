@@ -39,7 +39,7 @@ When someone applies for the Bounty job, funder can start deciding who to give t
 Please switch to the `Funder` account and click on the account name in the upper right corner, then we enter the its profile page. We can find the current user's related bounties here. There are 5 tabs on this page, the two on the left are for funders.
 
 * Pending Approve - Pending bounties created by current user
-* Fund Bounties -- Approved Bounties created by current user
+* Fund Bounties - Approved Bounties created by current user
 
 Because the Bounty we created has just been approved, so you should find it under the `Fund Bounties` tab. Then, click on it to enter its details page.
 
