@@ -32,9 +32,18 @@ Please switch to the `Hunter` account. Visit the app homepage, you can see a lis
 
 If the operation is successful, you will find that your applicant listed at the bottom of the page. At this time, the hunter can't do anything, but just to wait for the task assignment.
 
+### 4. Assigning Bounty to Hunter
 
-### 4. Funder assigning the Bounty to Hunter
+When someone applies for the Bounty job, funder can start deciding who to give the task to. He usually refers to hunter's general score to make a decision. Because the score represents whether the hunter's previous works has performed well. So, now let us assign the Bounty.
 
+Please switch to the `Funder` account and click on the account name in the upper right corner, then we enter the its profile page. We can find the current user's related bounties here. There are 5 tabs on this page, the two on the left are for funders.
+
+* Applying Bounties - Pending bounties created by current user
+* Fund Bounties -- Approved Bounties created by current user
+
+Because the Bounty we created has just been approved, so you should find it under the `Fund Bounties` tab. Then, click on it to enter its details page.
+
+In the details page, you can view who has applied for the task. Currently we have only one hunter applying. Click the `Assign to Hunter` button and select this hunter and confirm the assignment.
 
 ### 5. Hunter submit the result
 
