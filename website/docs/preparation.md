@@ -6,19 +6,36 @@ slug: /getting-started/preparation
 
 This chapter, we will guide you through a complete process of a Bounty flow. We assume that the reader already know how to use [Polkadot Extension](https://github.com/polkadot-js/extension), this tutorial will use it to manage our accounts. If you don't have it, please install and learn about it before starting.
 
-## Import testing account
+## Import councilor account
 
-In the OpenSquare testnet, it has a built-in councilsor account, which has enough funds and privileges to go though the whole process. Below is the account seed, please import it into your Polkadot Extension.
+In the OpenSquare testnet, it has a built-in councilsor account, which has enough funds and privileges to go though the whole process. If you have the councilor account seed, please import it into your Polkadot Extension.
 
-`system title wire escape face guard wrestle sugar goose soldier basket miss`
+When importing, please give it a descriptive name `Councilor`, which is convenient for mentioning and using it later.
 
 ## How to sign in?
 
+Basically all actions that will change the state of the system can only be done after signing in. To sign in to the system, just click on the `Sign In` in the upper right corner and select an account in the pop-up box.
+
 ## How to sign out?
+
+To sign out of the current account, click on the account name in the upper right corner to open the user profile. You can find a sign-out icon next to the avatar and account name. Just click on it to sign out.
 
 ## Prepare the other two required accounts
 
-1. Create `Funder` and `Hunter` account
+Currently, we only have a councilor account, which is not enough. In order to test the Bounty process, at least two more accounts are required to play different roles .
 
-2. Transfer funds to two newly created accounts
+Next we create them.
 
+### Create `Funder` and `Hunter` account
+
+Use Polkadot Extension to create two accounts, give them descriptive name `Funder` and `Hunter`.
+
+### Transfer funds to two newly created accounts
+
+Because in the following test, these two accounts must hold a certain amount of funds to be able to complete the required operations, so next we will transfer some test funds to these two accounts.
+
+Please sign in to the `Councilor` account and enter the user profile page. Find and click the `Transfer` button. A transfer dialog box will pop up. You can find `Funder` and `Hunter` in the drop-down list of the payee. Please transfer 1000 OSN to each separately.
+
+## You are ready
+
+Now, the preparatory work has been completed. You can start testing the Bounty flow.
