@@ -8,7 +8,8 @@ module.exports = {
       'bounty-flow'
     ],
     Architecture: [
-      'pallets'
+      'pallets',
+      'fronted'
     ]
   }
 };

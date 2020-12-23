@@ -1,7 +1,7 @@
 ---
 id: pallets
 title: Pallets
-slug: architecture
+slug: architecture/pallets
 ---
 
 ## Basic bounty workflow
