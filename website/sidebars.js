@@ -6,6 +6,9 @@ module.exports = {
     'Getting Started': [
       'preparation',
       'bounty-flow'
+    ],
+    Architecture: [
+      'pallets'
     ]
   }
 };
