@@ -5,7 +5,8 @@ module.exports = {
     ],
     'Getting Started': [
       'preparation',
-      'bounty-flow'
+      'bounty-flow',
+      'off-chain-voting'
     ],
     Architecture: [
       'pallets',
